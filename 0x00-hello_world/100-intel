@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s hash+intel $CFILES
+gcc -S hash=intel $CFILES
